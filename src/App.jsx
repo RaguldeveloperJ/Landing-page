@@ -4,7 +4,7 @@ import Hero from './Components/Hero'
 import Feature from './Components/Feature'
 import Workflow from './Components/Workflow'
 import Pricing from './Components/Pricing'
-import Testimonial from './Components/testimonial'
+import Testimonial from './Components/Testimonial'
 import Footer from './Components/Footer'
 
 
