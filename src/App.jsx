@@ -6,6 +6,7 @@ import Workflow from './Components/Workflow'
 import Pricing from './Components/Pricing'
 import Testimonial from './Components/Testimonial'
 import Footer from './Components/Footer'
+import Copyright from './Components/Copyright'
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
          <Pricing/>
          <Testimonial/>
          <Footer/>
+         <Copyright/>
       </div>
     </>
   )
