@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:wght@100..900&display=swap');
+
+@import "tailwindcss";
+
+
+@layer base {
+  html {
+    font-family: "Poppins", sans-serif;
+    color-scheme: dark;
+    scroll-behavior: smooth;
+  }
+}
